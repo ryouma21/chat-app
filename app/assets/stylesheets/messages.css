@@ -115,15 +115,16 @@
   height: 90px;
   padding: 20px 40px;
   display: flex;
+  align-items: center;
 }
 
-.form-content {
+.form-input {
   background-color: white;
   display: flex;
   width: 100%;
 }
 
-.form-text{
+.form-message{
   border: none;
   height: 50px;
   width: 100%;
